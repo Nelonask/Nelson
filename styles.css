@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(165, 163, 163);
+}
+#hero_section{
+    display: flex;
+    height: 48vh;}
+.sec1{
+width: 50%;
+height: 100%;}
+#fname{
+    font-size: 400%;
+    text-align: center;
+}
+#l{font-size: medium;
+text-align: center;}
+#lo{
+    width: 50%;
+    height: 100%;
+    border-radius:50%;
+    align-items: center;
+}
+#lamar{
+    text-align: center;
+    margin: 6%;
+    padding: 3%;
+}
+#skills{
+    text-align: center;
+
+}
+#contactme{
+    text-align: center;
+}
+form{
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 25%;
+    padding: 2%;
+    border-radius: 3%;
+
+}
+.lop{
+    width: 90%;
+}
